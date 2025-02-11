@@ -14,7 +14,7 @@ The Can't Cook Application is designed to help users identify food items from im
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cantCookApplication.git
+    git clone https://github.com/raphaelsakcey/cantCookApplication.git
     ```
 2. Navigate to the project directory:
     ```bash
